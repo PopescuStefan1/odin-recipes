@@ -11,3 +11,9 @@
 .recipe-list{
     font-size: 22px;
 }
+
+img{
+    width: 500px;
+    height: auto;
+    text-align: center;
+}
