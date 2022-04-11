@@ -1,11 +1,17 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: chocolate;
 }
 
 .title {
     font-size: 50px;
     text-align: center;
-    background-color: lightblue;
+    background-color: darkblue;
+    color: whitesmoke;
 }
 
 .recipe-list{
