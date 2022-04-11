@@ -17,3 +17,12 @@ img{
     height: auto;
     text-align: center;
 }
+
+.description{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.description-child{
+    font-style: italic;
+}
